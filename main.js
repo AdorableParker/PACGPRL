@@ -1,1 +1,0 @@
-window.location.href = "https://cdn.jsdelivr.net/gh/AdorableParker/PACGPRL@lib/" + Math.floor(Math.random() * 2) + '/' + (Math.floor(Math.random() * 1000) + 1) + '.webp'
